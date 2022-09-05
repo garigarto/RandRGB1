@@ -1,0 +1,38 @@
+name: randrgb
+description: A new Flutter project.
+
+
+publish_to:
+
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=2.18.0 <3.0.0'
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  solid_lints: ^0.0.12
+
+  #Architecture
+  flutter_bloc: ^7.3.3
+  equatable: ^2.0.3
+
+  cupertino_icons: ^1.0.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+  flutter_lints: ^2.0.0
+
+flutter:
+
+
+  uses-material-design: true
+
+
